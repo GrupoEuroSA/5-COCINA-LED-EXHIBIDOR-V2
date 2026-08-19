@@ -3,26 +3,26 @@
 ## Acción
 
 ### URL
-PopupWebFrameBehaviour_2393606C_1F02_FBBB_41B2_D0650B8113EE.url = https://grupoeurosa.com/ar/producto/betc0-2?color=BETCN0?exhibidor=true
-PopupWebFrameBehaviour_23041B4A_1F02_2DFF_4195_B2AB971C26B7.url = https://grupoeurosa.com/ar/producto/betc0-2?color=BETCN0?exhibidor=true
 PopupWebFrameBehaviour_23DFC275_1F02_3F95_417F_FE318F393873.url = https://grupoeurosa.com/ar/producto/betc0-2?color=BETCN0?exhibidor=true
-PopupWebFrameBehaviour_3E0D1707_1F02_2576_41BA_6F58A814A1A4.url = https://grupoeurosa.com/ar/producto/betc0-2?exhibidor=true&color=BETCN0
-PopupWebFrameBehaviour_063EF14C_1506_3F5F_41B1_0E3F7DAACB19.url = https://grupoeurosa.com/ar/producto/ces-2020-400-a?exhibidor=true
+PopupWebFrameBehaviour_23041B4A_1F02_2DFF_4195_B2AB971C26B7.url = https://grupoeurosa.com/ar/producto/betc0-2?color=BETCN0?exhibidor=true
+PopupWebFrameBehaviour_2393606C_1F02_FBBB_41B2_D0650B8113EE.url = https://grupoeurosa.com/ar/producto/betc0-2?color=BETCN0?exhibidor=true
+PopupWebFrameBehaviour_0BA0ECA8_1B87_8D7F_4184_E5AB98A27D76.url = https://grupoeurosa.com/ar/producto/betc0-2?exhibidor=true&color=BETCN0
 PopupWebFrameBehaviour_2394E062_1F02_FBAE_4184_0036A991E120.url = https://grupoeurosa.com/ar/producto/ces-2020-400-a?exhibidor=true
+PopupWebFrameBehaviour_063EF14C_1506_3F5F_41B1_0E3F7DAACB19.url = https://grupoeurosa.com/ar/producto/ces-2020-400-a?exhibidor=true
 PopupWebFrameBehaviour_233D3B40_1F02_2DEB_41AF_622442E52BE8.url = https://grupoeurosa.com/ar/producto/ces-2020-400-a?exhibidor=true
 PopupWebFrameBehaviour_23DF426B_1F02_3FBE_41B4_C80FEF4E7B3C.url = https://grupoeurosa.com/ar/producto/ces-2020-400-a?exhibidor=true
-PopupWebFrameBehaviour_23956062_1F02_FBAE_41A9_9E351A8C712D.url = https://grupoeurosa.com/ar/producto/col-6-400?exhibidor=true
-PopupWebFrameBehaviour_063FE14D_1506_3F59_4196_D28CAEB1933E.url = https://grupoeurosa.com/ar/producto/col-6-400?exhibidor=true
 PopupWebFrameBehaviour_233EAB40_1F02_2DEB_4175_EFFE26785FE0.url = https://grupoeurosa.com/ar/producto/col-6-400?exhibidor=true
 PopupWebFrameBehaviour_23DC226B_1F02_3FBE_41B1_C44EBE74034D.url = https://grupoeurosa.com/ar/producto/col-6-400?exhibidor=true
-PopupWebFrameBehaviour_23955060_1F02_FBAB_41B2_CC40510FE793.url = https://grupoeurosa.com/ar/producto/cub-inox-103?exhibidor=true
+PopupWebFrameBehaviour_23956062_1F02_FBAE_41A9_9E351A8C712D.url = https://grupoeurosa.com/ar/producto/col-6-400?exhibidor=true
+PopupWebFrameBehaviour_14DE84F2_1B83_9ED2_41B4_4AA06A90B549.url = https://grupoeurosa.com/ar/producto/col-6-400?exhibidor=true
 PopupWebFrameBehaviour_23DC8269_1F02_3FBA_41B4_EE35F02F05F0.url = https://grupoeurosa.com/ar/producto/cub-inox-103?exhibidor=true
-PopupWebFrameBehaviour_06389149_1506_3F59_418D_8352553EF444.url = https://grupoeurosa.com/ar/producto/cub-inox-103?exhibidor=true
 PopupWebFrameBehaviour_233E8B3E_1F02_2D97_419E_DDEB44464AA9.url = https://grupoeurosa.com/ar/producto/cub-inox-103?exhibidor=true
-PopupWebFrameBehaviour_233F7B42_1F02_2DEF_4190_18EBE52AEDBD.url = https://grupoeurosa.com/ar/producto/ef-37-n?exhibidor=true
-PopupWebFrameBehaviour_23D8726E_1F02_3FB7_417D_F85FA32D6910.url = https://grupoeurosa.com/ar/producto/ef-37-n?exhibidor=true
-PopupWebFrameBehaviour_2395D065_1F02_FBAA_419B_DBBE2578C3F8.url = https://grupoeurosa.com/ar/producto/ef-37-n?exhibidor=true
+PopupWebFrameBehaviour_06389149_1506_3F59_418D_8352553EF444.url = https://grupoeurosa.com/ar/producto/cub-inox-103?exhibidor=true
+PopupWebFrameBehaviour_23955060_1F02_FBAB_41B2_CC40510FE793.url = https://grupoeurosa.com/ar/producto/cub-inox-103?exhibidor=true
 PopupWebFrameBehaviour_063CC158_1506_3F47_419C_6784B6C11687.url = https://grupoeurosa.com/ar/producto/ef-37-n?exhibidor=true
+PopupWebFrameBehaviour_2395D065_1F02_FBAA_419B_DBBE2578C3F8.url = https://grupoeurosa.com/ar/producto/ef-37-n?exhibidor=true
+PopupWebFrameBehaviour_23D8726E_1F02_3FB7_417D_F85FA32D6910.url = https://grupoeurosa.com/ar/producto/ef-37-n?exhibidor=true
+PopupWebFrameBehaviour_233F7B42_1F02_2DEF_4190_18EBE52AEDBD.url = https://grupoeurosa.com/ar/producto/ef-37-n?exhibidor=true
 PopupWebFrameBehaviour_0633615B_1506_3F79_41B1_E581BEFFA0D5.url = https://grupoeurosa.com/ar/producto/esl-078-400-b?color=ESL.078.500.N&exhibidor=true
 PopupWebFrameBehaviour_23974066_1F02_FBB7_41A4_2835533E8212.url = https://grupoeurosa.com/ar/producto/esl-078-400-b?color=ESL.078.500.N&exhibidor=true
 PopupWebFrameBehaviour_2338EB44_1F02_2DEB_4170_998888CA349C.url = https://grupoeurosa.com/ar/producto/esl-078-400-b?color=ESL.078.500.N&exhibidor=true
@@ -31,14 +31,14 @@ PopupWebFrameBehaviour_23DF7276_1F02_3F97_41AB_E6897A52FF93.url = https://grupoe
 PopupWebFrameBehaviour_23048B4C_1F02_2DFB_41AE_9CAF0F7B55BC.url = https://grupoeurosa.com/ar/producto/fl100?exhibidor=true
 PopupWebFrameBehaviour_2390F06D_1F02_FBB5_41B1_32770D201FD0.url = https://grupoeurosa.com/ar/producto/fl100?exhibidor=true
 PopupWebFrameBehaviour_384B2F49_1F0E_E5FD_4193_9F22D8F2F16B.url = https://grupoeurosa.com/ar/producto/fl100?exhibidor=true
-PopupWebFrameBehaviour_2397B068_1F02_FBBB_41AB_A01E39E16C04.url = https://grupoeurosa.com/ar/producto/gmln?exhibidor=true&color=GMLN
-PopupWebFrameBehaviour_063CA15F_1506_3F79_41B1_90CDEFE49204.url = https://grupoeurosa.com/ar/producto/gmln?exhibidor=true&color=GMLN
 PopupWebFrameBehaviour_23D87272_1F02_3FAF_41AD_DE90E6B7F323.url = https://grupoeurosa.com/ar/producto/gmln?exhibidor=true&color=GMLN
+PopupWebFrameBehaviour_063CA15F_1506_3F79_41B1_90CDEFE49204.url = https://grupoeurosa.com/ar/producto/gmln?exhibidor=true&color=GMLN
+PopupWebFrameBehaviour_2397B068_1F02_FBBB_41AB_A01E39E16C04.url = https://grupoeurosa.com/ar/producto/gmln?exhibidor=true&color=GMLN
 PopupWebFrameBehaviour_23389B47_1F02_2DF5_41A1_72D587EADC57.url = https://grupoeurosa.com/ar/producto/gmln?exhibidor=true&color=GMLN
 PopupWebFrameBehaviour_23964066_1F02_FBB6_41BA_630DA0CAB9D7.url = https://grupoeurosa.com/ar/producto/gola-superior-led-negro?exhibidor=true&color=GSLN
+PopupWebFrameBehaviour_2338EB44_1F02_2DEB_41B3_0434209739A3.url = https://grupoeurosa.com/ar/producto/gola-superior-led-negro?exhibidor=true&color=GSLN
 PopupWebFrameBehaviour_23DE526F_1F02_3FB5_417B_844A4EE1FA88.url = https://grupoeurosa.com/ar/producto/gola-superior-led-negro?exhibidor=true&color=GSLN
 PopupWebFrameBehaviour_06335159_1506_3F79_419E_0877951A464E.url = https://grupoeurosa.com/ar/producto/gola-superior-led-negro?exhibidor=true&color=GSLN
-PopupWebFrameBehaviour_2338EB44_1F02_2DEB_41B3_0434209739A3.url = https://grupoeurosa.com/ar/producto/gola-superior-led-negro?exhibidor=true&color=GSLN
 PopupWebFrameBehaviour_233E3B3F_1F02_2D95_4190_5C58D6525701.url = https://grupoeurosa.com/ar/producto/inter?exhibidor=true&color=INTERN
 PopupWebFrameBehaviour_23DDA26A_1F02_3FBE_41A5_E271A1F2F36B.url = https://grupoeurosa.com/ar/producto/inter?exhibidor=true&color=INTERN
 PopupWebFrameBehaviour_2395C061_1F02_FBAA_419A_BC5B46EEB376.url = https://grupoeurosa.com/ar/producto/inter?exhibidor=true&color=INTERN
@@ -74,7 +74,7 @@ PopupWebFrameBehaviour_23965064_1F02_FBAA_4190_B9A152D90363.url = https://grupoe
 PopupWebFrameBehaviour_23D9E275_1F02_3F95_419E_51584FBF906F.url = https://grupoeurosa.com/ar/producto/tbetc?color=TBETCN?exhibidor=true
 PopupWebFrameBehaviour_2390106B_1F02_FBBD_41B8_4D56796DF2DC.url = https://grupoeurosa.com/ar/producto/tbetc?color=TBETCN?exhibidor=true
 PopupWebFrameBehaviour_23397B49_1F02_2DFD_41A7_EB3F70ECD366.url = https://grupoeurosa.com/ar/producto/tbetc?color=TBETCN?exhibidor=true
-PopupWebFrameBehaviour_3D41D498_1F02_249B_419A_82B7FDA42A31.url = https://grupoeurosa.com/ar/producto/tbetc?exhibidor=true&color=TBETCN
+PopupWebFrameBehaviour_0BECA6C7_1B82_FD31_41AE_8523281181D0.url = https://grupoeurosa.com/ar/producto/tbetc?exhibidor=true&color=TBETCN
 PopupWebFrameBehaviour_23DEA271_1F02_3FAD_4199_10F81CD2FAA7.url = https://grupoeurosa.com/ar/producto/z10?color=Z10N?exhibidor=true
 PopupWebFrameBehaviour_23964067_1F02_FBB5_4194_1931B8293302.url = https://grupoeurosa.com/ar/producto/z10?color=Z10N?exhibidor=true
 PopupWebFrameBehaviour_0633615D_1506_3F79_418C_ECB23F6F92C1.url = https://grupoeurosa.com/ar/producto/z10?color=Z10N?exhibidor=true
